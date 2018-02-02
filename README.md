@@ -25,3 +25,6 @@ win7 64位，
 第4步：
 打开JupyterNotebook.exe 使用。。
 备注每次使用前请查看MongoDB服务是否已打开。请勿在quantaxis内使用jupyternotebook，请勿修改quantaxis内相关文件 否则将无法更新quantaxis。
+
+
+压缩包不好上传自己去下载吧，微云链接：http://url.cn/5HKBjX3    密码：lQ9yUV
