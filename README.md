@@ -4,6 +4,7 @@
 采用的软件是：
 WinPython-64bit-3.6.3.0Zero.exe
 mongodb-win32-x86_64-2008plus-ssl-3.6.2.zip
+quantaxis 采用1.0.4 （下载后可以自行gitpull更新）
 
 下载路径：
 http://winpython.github.io/
