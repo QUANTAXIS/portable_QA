@@ -1,6 +1,12 @@
 # portable_QA
 便捷版quantaxis（QA）
 
+下载地址写在前面
+
+百度云盘：链接：https://pan.baidu.com/s/1o9Ctu0E 密码：m760
+
+微云链接：http://url.cn/5HKBjX3    密码：lQ9yUV
+
 采用的软件是：
 
 WinPython-64bit-3.6.3.0Zero.exe
@@ -36,4 +42,4 @@ http://dl.mongodb.org/dl/win32/x86_64
 
 备注每次使用前请查看MongoDB服务是否已打开。请勿在quantaxis内使用jupyternotebook，请勿修改quantaxis内相关文件 否则将无法更新quantaxis。
 
-压缩包不好上传自己去下载吧，微云链接：http://url.cn/5HKBjX3    密码：lQ9yUV
+压缩包太大不好上传自己去下载吧，
