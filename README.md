@@ -3,7 +3,7 @@
 
 下载地址写在前面
 
-百度云盘：链接：https://pan.baidu.com/s/1o9Ctu0E 密码：m760
+百度云盘：https://pan.baidu.com/s/1mOV_YJOGWueclmb5zqJSig 密码：k3f5
 
 微云链接：http://url.cn/5HKBjX3    密码：lQ9yUV
 
@@ -13,7 +13,7 @@ WinPython-64bit-3.6.3.0Zero.exe
 
 mongodb-win32-x86_64-2008plus-ssl-3.6.2.zip
 
-quantaxis 采用1.0.4 （下载后可以自行gitpull更新）
+quantaxis  （下载后可以自行gitpull更新）
 
 下载路径：
 http://winpython.github.io/
@@ -22,7 +22,7 @@ http://dl.mongodb.org/dl/win32/x86_64
 
 测试系统为：win7 64位
 
-该版本主要为了方便部署，已包含mongodb（未包含数据），包含quantaxis及相关依赖性，
+该版本主要为了方便部署，已包含mongodb（包含数据），包含quantaxis及相关依赖性，
 
 如需安装其他库、git更新quantaxis、下载数据请使用WinPython Command Prompt.exe进行。
 
