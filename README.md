@@ -43,3 +43,8 @@ http://dl.mongodb.org/dl/win32/x86_64
 备注每次使用前请查看MongoDB服务是否已打开。请勿在quantaxis内使用jupyternotebook，请勿修改quantaxis内相关文件 否则将无法更新quantaxis。
 
 压缩包太大不好上传自己去下载吧，
+
+
+针对jupyternotebook启动错误，
+限制下tornado版本：pip install tornado==4.4.3
+
