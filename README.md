@@ -47,4 +47,4 @@ http://dl.mongodb.org/dl/win32/x86_64
 
 针对jupyternotebook启动错误，
 限制下tornado版本：pip install tornado==4.4.3
-
+卸载lml macropy3这些以后 然后重装pyecharts到0.4.1版本：pip install pyecharts==0.4.1
